@@ -36,3 +36,7 @@
     margin: 4px 2px;
     cursor: pointer;
   }
+  .aside{
+    justify-content: end;
+    align-items: end
+  }
